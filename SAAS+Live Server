@@ -1,0 +1,27 @@
+SAAS installation:
+------------------------
+TERMINAL ACTIONS:
+
+1.Install Node (check if you have it already: "node -v")
+2. Move your directory to project index. Check: "ls", you should see "css" "img" "index.html" folders/files.
+3. "npm init" - follow instructions on Terminal (you can include description, your name...). package.json file will be created in a project folder as a result.
+4. "npm install node-sass --save-dev". Open package.json file and check if you see devDependencies with node-saas
+Create 
+
+PROJECT ACTIONS:
+
+1. create a new folder "saas". 
+2. add new file "main.scss".
+
+EDIT PACKAGE.JSON FILE:
+1. Edit scripts: "compile:saas: node-saas/main.scss css/style.css"
+2. Start SAAS: Terminal - "npm run compile:saas" and do not close terminal window (open new window for new actions).
+
+-------------------------
+
+LIVE SERVER INSTALLATION:
+1. Terminal: "sudo npm install live-server -g" (-g means install package globally to access for all projects in future).
+2. Start live server: Terminal: "live-server"
+
+
+DONE!!!!
