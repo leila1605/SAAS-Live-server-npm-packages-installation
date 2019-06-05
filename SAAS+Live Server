@@ -25,3 +25,29 @@ LIVE SERVER INSTALLATION:
 
 
 DONE!!!!
+
+
+SAAS FOLDERS AND FILES INSIDE A PROJECT:
+
+abstracts
+_functions.scss
+_mixins.scss
+_variables.scss
+
+base
+_animations.scss
+_base.scss
+_typography.scss
+_utilities.scss
+
+components
+
+layout
+
+pages
+_home.scss
+
+Optional:
+themes (for ready themes)
+vendors (for icons, bootstrap, framework...)
+
