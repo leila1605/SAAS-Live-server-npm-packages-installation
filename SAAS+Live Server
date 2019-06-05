@@ -40,11 +40,11 @@ _base.scss
 _typography.scss
 _utilities.scss
 
-components
+components (for nesting elements, such as buttons, cards)
 
-layout
+layout (f.e. header, footer, global elements)
 
-pages
+pages (if project has multiple pages, f.e about us...)
 _home.scss
 
 Optional:
