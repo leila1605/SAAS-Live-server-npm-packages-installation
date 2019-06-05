@@ -15,7 +15,7 @@ PROJECT ACTIONS:
 
 EDIT PACKAGE.JSON FILE:
 1. Edit scripts: "compile:saas: node-saas/main.scss css/style.css"
-2. Start SAAS: Terminal - "npm run compile:saas" and do not close terminal window (open new window for new actions).
+2. Start SAAS: Terminal - "npm run compile:sass" and do not close terminal window (open new window for new actions).
 
 -------------------------
 
