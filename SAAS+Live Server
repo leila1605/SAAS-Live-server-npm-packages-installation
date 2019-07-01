@@ -6,7 +6,6 @@ TERMINAL ACTIONS:
 2. Move your directory to project index. Check: "ls", you should see "css" "img" "index.html" folders/files.
 3. "npm init" - follow instructions on Terminal (you can include description, your name...). package.json file will be created in a project folder as a result.
 4. "npm install node-sass --save-dev". Open package.json file and check if you see devDependencies with node-saas
-Create 
 
 PROJECT ACTIONS:
 
